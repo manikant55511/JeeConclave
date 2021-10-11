@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to your/'s Conclave!
     text: A conclave where you will receive support, training and motivation through the righteous path from Aspirants 2 Achivers.
-    button: [Tell us more](https://en.wikipedia.org/wiki/Markdown)
-    #buttonlink: "https:facebook.com"
+    button: Tell us more
+    buttonlink: "https://en.wikipedia.org"
 
   services:
     title: "Services"
