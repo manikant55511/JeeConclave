@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to your/'s Conclave!
+    title: Welcome to my Conclave!
 #     text: A conclave where you will receive support, training and motivation through the righteous path from Aspirants 2 Achivers.
-    text: Support, Training & Motivation.
+    text: Motivation, Training &Support.
     button: Tell us more
     buttonlink: "https://forms.gle/VBTEcnvCi5BM1m4V6"
 
@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Mentorship"
-        desc: "Get the righteous guidance from Jee achivers to become achivers."
+        desc: "We will bring the cart by sensing of the need required to you."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Computer Science"
-        desc: "Clear the concepts in any chapter from Computer Science for CBSE."
+        desc: "Get the concepts cleared in chapters from Computer Science for CBSE."
         icon: fas fa-laptop
       - title: "Jee Classes" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Clear the concepts in any chapter from any subject"#"Your description here, full **Markdown** support"
@@ -35,15 +35,15 @@ en: &DEFAULT_EN
   why-mentorship?:
     title: "Why Mentorship"
     text: "our story"
-    body: "Group of IIT's on path of making acheviers from aspirants."
+    body: "We are a group of three IITians with the motto of Making Acheviers from Aspirants. After having cleared Jee Advance and going through the rigiours selection process when we look back we felt that we would have performed way better if we had someone that we could talk our heart out and receive help. If only someone were there who could help us at every step of the process we could have truly performed ourself. During these kind of talks beteeen us we became more and more sure to help our juinors in the process of preparation. And so was idea that resulted into Jee Conclave. "
     section: about
 
 
-  portfolio:
-    title: "Portfolio"
-    text: "Hidden Treasures."
-    section: portfolio
-    closebutton: "Close Project"
+#   portfolio:
+#     title: "Portfolio"
+#     text: "Hidden Treasures."
+#     section: portfolio
+#     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
