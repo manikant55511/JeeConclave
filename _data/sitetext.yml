@@ -15,7 +15,7 @@ en: &DEFAULT_EN
 #     text: A conclave where you will receive support, training and motivation through the righteous path from Aspirants 2 Achivers.
     text: Support, Training & Motivation.
     button: Tell us more
-    buttonlink: "https://en.wikipedia.org"
+    buttonlink: "https://forms.gle/VBTEcnvCi5BM1m4V6"
 
   services:
     title: "Services"
