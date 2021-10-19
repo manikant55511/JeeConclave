@@ -23,27 +23,27 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Mentorship"
-        desc: "We will bring the cart by sensing of the need required to you."
+        desc: "We will bring the motivation and discipline cart by adjusting according to need of yours."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Computer Science"
-        desc: "Get the concepts cleared in chapters from Computer Science for CBSE."
+        desc: "Join classes and Tutions for Computer Science for CBSE."
         icon: fas fa-laptop
       - title: "Jee Classes" #[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Clear the concepts in any chapter from any subject"#"Your description here, full **Markdown** support"
+        desc: "Craft your Jee needs according to yourself us."
         icon: fab fa-markdown
         
-  why-mentorship?:
-    title: "Why Mentorship"
-    text: "our story"
-    body: "We are a group of three IITians with the motto of Making Acheviers from Aspirants. After having cleared Jee Advance and going through the rigiours selection process when we look back we felt that we would have performed way better if we had someone that we could talk our heart out and receive help. If only someone were there who could help us at every step of the process we could have truly performed ourself. During these kind of talks beteeen us we became more and more sure to help our juinors in the process of preparation. And so was idea that resulted into Jee Conclave. "
-    section: about
+#   why-mentorship?:
+#     title: "Why Mentorship"
+#     text: "our story"
+#     body: " "
+#     section: about
 
 
-#   portfolio:
-#     title: "Portfolio"
-#     text: "Hidden Treasures."
-#     section: portfolio
-#     closebutton: "Close Project"
+  portfolio:
+    title: "Portfolio"
+    text: "Hidden Treasures."
+    section: portfolio
+    closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
@@ -78,7 +78,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Group of IIT's on path of making acheviers from aspirants."
+    body: "Group of IIT's on path of making acheviers from aspirants.We are a group of three IITians with the motto of Making Acheviers from Aspirants. After having cleared Jee Advance and going through the rigiours selection process when we look back we felt that we would have performed way better if we had someone that we could talk our heart out and receive help. If only someone were there who could help us at every step of the process we could have truly performed ourself. During these kind of talks beteeen us we became more and more sure to help our juinors in the process of preparation. And so was idea that resulted into Jee Conclave."
     section: about
 
 #   clients:
@@ -102,11 +102,11 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Growing and learning as a student alongside you!"
-    subtext: We are on a mission to lessen the stress on students appearing for exams by being alongside the struggle and making it more concentrated and focused along the journey to acheive something great.
+    subtext: We are on a mission to lessen the stress or burden on students appearing for exams by being alongside the struggle and making it more concentrated and focused along the journey to acheive something great.
     section: team
     people:
       - name: "Rohit Chouchan"
-        role: "Admin and co-journey partner"
+        role: "Admin and Developer."
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -115,8 +115,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Kishan Sir"
+        role: "Admin and Developer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
