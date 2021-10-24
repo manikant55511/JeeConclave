@@ -1,15 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Coding
+subtitle: Get live classes and doubt removal classes from the comfort of your home.
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: Coding
+  subtitle: Get live classes and doubt removal classes from the comfort of your home.
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Get computer science classes for 11th and 12th CBSE board exams.The content has been designed and will be catered keeping in mind the NCERT syllabus.
+Key features:
+Live audio-video lectures 
+Simple and easy to understand video lectures
+Study materials as per exam patterns.
+Sample Question paper. 
 
 {:.list-inline}
 - Date: October 2019
