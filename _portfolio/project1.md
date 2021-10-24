@@ -9,11 +9,12 @@ caption:
   subtitle: Have you felt the following.
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-1. Measuring study time instead of the topic content covered and mastered.
-2. Felt lost and misguided.
-3. Working hard and not getting results
-4. Have no focus and consistency.
-5. Neglecting weak topics .
+**Have you felt any of these and if you do then you need a mentorship. Book a free session today**.
+Measuring study time instead of the topic content covered and mastered.
+Felt lost and misguided.
+Working hard and not getting results
+Have no focus and consistency.
+Neglecting weak topics .
 
 This is where mentorship comes into play. We don’t want you to get stuck just because no one was around to guide you.
 
