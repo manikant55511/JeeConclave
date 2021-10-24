@@ -45,35 +45,35 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: "timeline left is the default"
-    start_align: "left"
-    events:
-      - title: "+0:Our Humble Beginnings"
-#         Start: "2021"
-        desc: "We start on a journey that ends with the exam with a bit of luck and a lot of hardwork!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "+1:Scratch analysis"
-#         year: "One month later"
-        desc: "Analysing Phase, check the improvement and find the strong and weak areas.!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "+2:Depth and Breadth alayisis"
-#         year: "Two months later"
-        desc: "Percent of accuracy attained and better improvent in timeline."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "+3 ++:Acheiving analysis and Continium"
-        year: "Three months and later"
-        desc: "Making the weak spots stronger and strong spots more stronger."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "<br> Keep Going <br> !"
+#   timeline:
+#     title: "Timeline"
+#     text: "Lorem ipsum timeline"
+#     section: "timeline left is the default"
+#     start_align: "left"
+#     events:
+#       - title: "+0:Our Humble Beginnings"
+# #         Start: "2021"
+#         desc: "We start on a journey that ends with the exam with a bit of luck and a lot of hardwork!"
+#         image: assets/img/timeline/1.jpg
+#         alt:
+#       - title: "+1:Scratch analysis"
+# #         year: "One month later"
+#         desc: "Analysing Phase, check the improvement and find the strong and weak areas.!"
+#         image: assets/img/timeline/2.jpg
+#         alt:
+#       - title: "+2:Depth and Breadth alayisis"
+# #         year: "Two months later"
+#         desc: "Percent of accuracy attained and better improvent in timeline."
+#         image: assets/img/timeline/3.jpg
+#         alt: image alt text
+#       - title: "+3 ++:Acheiving analysis and Continium"
+#         year: "Three months and later"
+#         desc: "Making the weak spots stronger and strong spots more stronger."
+#         image: assets/img/timeline/4.jpg
+#         alt:
+#         # you can enforce the alignment
+#         align: right
+#     end: "<br> Keep Going <br> !"
 
   about:
     title: "About Us"
