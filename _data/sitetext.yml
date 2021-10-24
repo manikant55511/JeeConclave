@@ -43,7 +43,9 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Hidden Treasures."
     section: portfolio
-    closebutton: "Close Project"
+    button: Book Your First Session
+    buttonlink: "https://forms.gle/VBTEcnvCi5BM1m4V6"
+    #closebutton: "Close Project"
 
 #   timeline:
 #     title: "Timeline"
