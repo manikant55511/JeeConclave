@@ -1,5 +1,5 @@
 ---
-title: Live classes(For engineering aspirants).
+title: Live classes.
 subtitle: Get your classes from the comfort of your home and according to your need.
 image: assets/img/portfolio/04-full.jpg
 alt: 
