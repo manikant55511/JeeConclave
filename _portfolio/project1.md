@@ -19,4 +19,8 @@ caption:
 
 This is where mentorship comes into play. We don’t want you to get stuck just because no one was around to guide you.
 
+{:.list-inline}
+- Date: January 2017
+- Client: Threads
+- Category: Illustration
 
